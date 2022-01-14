@@ -1,0 +1,4 @@
+//James O Rodriguez Feliciano james.rodriguez5@upr.edu
+From the printouts in the terminal the following can be obeserved:
+After main finished, some threads, and sometimes all threads, display
+ the "Running Thread... This is Thread", so it could be said that some threads 
